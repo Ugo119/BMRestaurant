@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMRestaurant</string>
+    <string name="about_us">About us</string>
+    <string name="our_services">Our services</string>
+    <string name="description">Barbara Maks Kitchen opened in June, 2015 and is located right beside Premium Hotel. Since then we have maintained serving quality and delicious dishes everyday. We are open everyday 8:00am to 10:00pm</string>
+    <string name="special_reservation">Special reservations</string>
+    <string name="office_delivery">Office delivery</string>
+    <string name="regular_dine_in">Regular dine-in</string>
+    <string name="outdoor_catering">Outdoor catering</string>
+    <string name="make_reservation">Make a reservation</string>
+    <string name="order">Order</string>
+</resources>
